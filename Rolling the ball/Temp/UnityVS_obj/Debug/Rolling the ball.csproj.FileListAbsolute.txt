@@ -1,0 +1,21 @@
+D:\code\Rolling the ball\Temp\UnityVS_obj\Debug\Rolling the ball.csprojResolveAssemblyReference.cache
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.VR.dll
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEngine.VR.xml
+D:\code\Rolling the ball\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\code\Rolling the ball\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+D:\code\Rolling the ball\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
